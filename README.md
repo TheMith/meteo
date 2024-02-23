@@ -1,5 +1,4 @@
 # Weather APP
-
 - npm i axios
 
 ## API IPMA
